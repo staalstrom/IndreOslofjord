@@ -1,7 +1,7 @@
 # Indre Oslofjord
 Hydrography data from the monitoring program for the inner Oslofjord
 
-This data are collected by the monitoring program for the inner Oslofjord.
+These data are collected by the monitoring program for the inner Oslofjord.
 The program is financed by 
 The Council for Water an Sewage technical Cooperation in inner Oslofjord 
 (the Council for short)
