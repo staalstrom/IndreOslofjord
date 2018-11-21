@@ -22,7 +22,11 @@ http://www.indre-oslofjord.no/uploads/Overvking_Indre_Oslofjord_2017Norconsultgj
 
 The monitoring program started in 1973 and is ongoing.
 The project leaders of the project has been:
+
 Jan Magnusson, NIVA, 2007-2010
+
 John Arthur Berge, NIVA, 2011-2014
+
 Elisabeth Lundsør, Norconsult, 2015-2018
+
 ?, ?, 2019-2022
