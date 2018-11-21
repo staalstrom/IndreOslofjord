@@ -1,4 +1,4 @@
-# IndreOslofjord
+# Indre Oslofjord
 Hydrography data from the monitoring program for the inner Oslofjord
 
 This data are collected by the monitoring program for the inner Oslofjord.
